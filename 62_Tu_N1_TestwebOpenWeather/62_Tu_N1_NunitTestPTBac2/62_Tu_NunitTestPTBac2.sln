@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "62_Tu_NunitTestPTBac2", "62_Tu_NunitTestPTBac2\62_Tu_NunitTestPTBac2.csproj", "{CF42ADE0-0B61-41AB-9054-8CA98A62B5DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "62_Tu_PTBac2Tester", "62_Tu_PTBac2Tester\62_Tu_PTBac2Tester.csproj", "{A74E3C9A-8FA4-496E-860C-63B9C463BF6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF42ADE0-0B61-41AB-9054-8CA98A62B5DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF42ADE0-0B61-41AB-9054-8CA98A62B5DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF42ADE0-0B61-41AB-9054-8CA98A62B5DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF42ADE0-0B61-41AB-9054-8CA98A62B5DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A74E3C9A-8FA4-496E-860C-63B9C463BF6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74E3C9A-8FA4-496E-860C-63B9C463BF6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74E3C9A-8FA4-496E-860C-63B9C463BF6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74E3C9A-8FA4-496E-860C-63B9C463BF6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E5D7A40-F734-4763-A48E-86D54F203A5E}
+	EndGlobalSection
+EndGlobal

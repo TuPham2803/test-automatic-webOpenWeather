@@ -1,0 +1,4 @@
+﻿username,password,expectMessage
+tupham2832003@gmail.com,tuphamnguyen1,Signed in successfully.
+tu2832003@gmail.com,tuphamnguyen1,Invalid Email or password.
+tupham2832003@gmail.com,123,Invalid Email or password.
