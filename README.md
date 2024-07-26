@@ -2,7 +2,7 @@
 Trên đây là hai phần chính của dự án:
 1. **Unit Testing với NUnit (C#)**.
 2. **Unit Testing với Selenium WebDriver**.
-# Hệ thống tính Phương trình bậc 2
+# Hệ thống tính Phương trình bậc 2 Và Testing với Selenium WebDriver cùa WebOpenWeather
 
 ## Ngôn ngữ
 - C#
